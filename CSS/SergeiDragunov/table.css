@@ -31,7 +31,7 @@
     vertical-align: middle;
 }
 
-.table__header {
+.table__cell--header {
     background-color: rgb(232, 71, 247);
     text-align: center;
     font-weight: bold;
