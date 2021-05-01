@@ -1,0 +1,30 @@
+.aside {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.aside__link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color: rgb(90, 21, 155);
+    text-decoration: none;
+}
+
+.aside__link:visited {
+    color: darkblue;
+}
+
+.aside__link:focus {
+    outline: 2px solid darkmagenta;
+}
+
+.aside__link:hover {
+    color: rgb(93, 9, 114);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.aside__link:active {
+    color: rgb(136, 28, 28);
+}

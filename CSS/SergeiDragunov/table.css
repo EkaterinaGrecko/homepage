@@ -1,0 +1,38 @@
+.table {
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 30px 20px;
+    max-width: 100%;
+}
+
+.table__caption {
+    font-family: Arial, Helvetica, sans-serif;
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.table__row:nth-child(even) {
+    background-color: rgba(246, 146, 246, 0.253);
+}
+
+.table__row:hover {
+    background-color: rgba(246, 146, 246, 0.616);
+}
+
+.table__cell {
+    border: 2px solid rgb(107, 7, 107);
+    padding: 15px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+    vertical-align: middle;
+}
+
+.table__header {
+    background-color: rgb(232, 71, 247);
+    text-align: center;
+    font-weight: bold;
+}

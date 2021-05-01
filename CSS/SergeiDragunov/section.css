@@ -1,0 +1,75 @@
+.section {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 30px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.section__subheader {
+    font: bold 25px "Bangers";
+    max-width: 100%;
+    border: 2px inset rgb(58, 128, 221);
+    border-radius: 10px;
+    padding: 2px;
+    margin: 20px;
+    box-shadow: 5px 5px 11px -3px rgb(232, 71, 247);
+    color: rgba(2, 2, 49, 0.897);
+    background-color: rgb(178, 166, 231);
+    text-align: center;
+}
+
+.section__attention {
+    font-weight: bold;
+}
+
+.section__russian {
+    font-style: italic;
+}
+
+.section__important {
+    font-weight: bold;
+}
+
+.section__link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color: rgb(90, 21, 155);
+    text-decoration: none;
+}
+
+.section__link:visited {
+    color: darkblue;
+}
+
+.section__link:focus {
+    outline: 2px solid darkmagenta;
+}
+
+.section__link:hover {
+    color: rgb(93, 9, 114);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.section__link:active {
+    color: rgb(136, 28, 28);
+}
+
+.section__listItem {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    max-width: 935px;
+    line-height: 1.5;
+}
+
+.section__buttonPhotos {
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(2, 2, 49, 0.897);
+    background-color: rgb(232, 71, 247);
+    border: 2px inset rgb(58, 128, 221);
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+}
