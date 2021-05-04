@@ -11,6 +11,6 @@
     max-height: 200px;
 }
 
-.image__hidden {
+.image__gallery--hidden {
     display: none
 }
