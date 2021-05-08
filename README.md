@@ -21,7 +21,7 @@ Here you can find such information about Sergei Dragunov as:
 7. Additional information
 
 ## Demo video
-![demo]()
+![demo](https://github.com/EkaterinaGrecko/homepage/blob/main/images/demo.gif?raw=true)
 
 ## Technologies:
 - HTML
