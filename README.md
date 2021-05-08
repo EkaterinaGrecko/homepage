@@ -1,6 +1,6 @@
 # Sergei Dragunov
 
-Hi there! This page is a  homework project for a course of beginners in Frontend was inspired by cult series of japanese fighting video and arcade games 🎮 **"Tekken"** published by Bandai Namco Entertainment.
+Hi there! This page is a  homework project for a course for beginners in Frontend was inspired by cult series of japanese fighting video and arcade games 🎮 **"Tekken"** published by Bandai Namco Entertainment.
 On this page you will get to know closer one of the Tekken's characters-**Sergei Dragunov**, silent and misterious soldier from a cold Russia.
 
 ![SergeiDragunov](https://github.com/EkaterinaGrecko/homepage/blob/main/images/Dragunov.jpg?raw=true)
@@ -21,7 +21,7 @@ Here you can find such information about Sergei Dragunov as:
 7. Additional information
 
 ## Demo video
-![demo](https://github.com/EkaterinaGrecko/homepage/blob/main/images/demo.gif?raw=true)
+![demo]()
 
 ## Technologies:
 - HTML
